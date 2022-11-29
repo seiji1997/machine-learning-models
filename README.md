@@ -20,7 +20,7 @@
 
 # MACHINE LEARNING MODELS
 
-## [basic-machine-learning-models](basic-machine-learning-models)
-## [for engineer certificate](for%20engineer%20certificate)
-## [machine-learning-models](machine-learning-models)
-## [python-library](python-library)
+### [basic-machine-learning-models](basic-machine-learning-models)
+### [for engineer certificate](for%20engineer%20certificate)
+### [machine-learning-models](machine-learning-models)
+### [python-library](python-library)
