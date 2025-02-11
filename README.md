@@ -1,4 +1,4 @@
-# MACHINE LEARNING MODELS & METHODS (INCLUDING SELF-STUDY)
+## MACHINE LEARNING MODELS & METHODS (INCLUDING SELF-STUDY)
 Multivariate Analysis: 
 - Linear Regression (Gauss basis, Lasso, Ridge, Elastic Net, RANSAC), PCA, MDS, Hierarchical Clustering, DBSCAN
 
@@ -8,7 +8,7 @@ Machine Learning:
 NLP / Image Processing:
 - Word2vec, RNN, LSTM, Attention, Transformer, BERT, Seq2Seq, CNN, ResNet-18, VGG-19-BN
 
-# MACHINE LEARNING MODELS
+## MACHINE LEARNING MODELS
 
 ### [basic-machine-learning-models](basic-machine-learning-models)
 ### [for engineer certificate](for%20engineer%20certificate)
